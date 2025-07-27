@@ -31,3 +31,5 @@ Deploy an enterprise web application on HUAWEI CLOUD, based on the following req
 #### Step 2: Open Virtual Private Cloud Service
 - In the left navigation pane, go to:
 - Service List > Networking > Virtual Private Cloud
+- <img width="768" height="538" alt="Screenshot (833)" src="https://github.com/user-attachments/assets/32a74d70-648d-4829-b6f3-8c50b6c2f5ce" />
+
